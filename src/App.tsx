@@ -3,7 +3,18 @@ import './App.scss'
 function App() {
   return (
     <main>
-      <h1>my app</h1>
+      <header>
+        <div>
+          <img src='./logo'/>
+          
+        </div>
+        <div>
+          <span>Summerly</span>
+          <span>Media</span>
+
+        </div>
+
+      </header>
     </main>
   )
 }
